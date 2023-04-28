@@ -1,7 +1,3 @@
-## 💫 About Me:
-🔥 Motivated and detail-oriented software developer 💻<br>💡 Innovative problem-solver with a strong focus on clean, efficient code ⌨️<br>📈Passionate about staying up-to-date with the latest developments in the tech industry
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC8de0kzNa5aG7RJyKLISLZg) 
 
